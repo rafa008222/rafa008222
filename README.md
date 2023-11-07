@@ -2,7 +2,7 @@
 
 Meu nome é Rafael Ribeiro
 
-- Estou estudando na Alura
+- Estou estudando na [Alura] (https://www.alura.com.br)https://tenor.com/search/tom-and-jerry-gifs
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -11,3 +11,5 @@ Meu nome é Rafael Ribeiro
   rafarib0822@gmail.com
   
   rafael.ribeiro.luz@escola.pr.gov.br
+
+  !.[]()  https://tenor.com/search/tom-and-jerry-gifs
